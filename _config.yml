@@ -18,16 +18,20 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Mariel W . Jones
+title: Mariel W. Jones
+subtitle: Environmental and Hydrological Data Science 
+name: Mariel W. Jones
 email: jone3247@umn.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  Ecohydrology and Environmental Data Science
+  Personal website detailed past and prsent projects relating to all things ecohydrology. 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: https://mwdjones.github.io 
+
 github_username:  mwdjones
 
 # Build settings
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+minimal_mistakes_skin: "aqua"
 plugins:
   - jekyll-feed
   - jekyll-include-cache
