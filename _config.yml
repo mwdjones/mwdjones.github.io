@@ -35,7 +35,7 @@ minimal_mistakes_skin: "aqua"
 plugins:
   - jekyll-feed
   - jekyll-include-cache
-
+  
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
@@ -55,3 +55,5 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+include: ["_pages"]
