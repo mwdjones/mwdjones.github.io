@@ -1,7 +1,8 @@
 main:
   - title: "Research"
-    url: /research
+    url: /research/
+  - title: "Data Adventures"
+    url: /datasci/
   - title: "About Me"
     url: /about/
-  - title: "Data Endeavors"
-    url: /datasci/
+
