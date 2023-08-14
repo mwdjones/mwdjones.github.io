@@ -8,6 +8,7 @@
         - Research in the assimilation of field and modelling techniques for representing peatland and winter climate dynamics to land surface models.
         - Committee Members; Drs. Xue Feng (UMN-TC, Advisor), G-H Crystal Ng (UMN-TC), Salli Dymond (UMN-D, NAU), Stephen Sebestyen (USFS), and Vaughan Voller
 (UMN-TC)
+
     - title: B.Sc General Engineering, Mathematics and Statistics
       institution: Smith College
       year: 2020
@@ -23,6 +24,7 @@
       description:
         - Summer fellowship in collaboration with the Environmental Data Initiative (EDI) and the USFS Marcell Experimental Forest (MEF) to build data processing and publication knowledge within the ecological and environmental community. Participated
 in a weeklong training on data publication and worked for 8 weeks with the MEF site to process and publish long-term meteorological and hydrological data.
+   
     - title: Design Clinic Engineer
       institution: Smith College Engineering Department, Northampton, MA
       year: 2019-2020
@@ -30,6 +32,7 @@ in a weeklong training on data publication and worked for 8 weeks with the MEF s
         - Extensive collaboration with students and professionals on a project sponsored by the US Fish and Wildlife Service and the US Geological Survey. Work was done
 to redesign entranceways to fish passages and increase both attraction and passage efficiencies from native fish species. 2 months were spent as Project Manager, and final
 deliverables were communicated to USFWS in the form of a design recommendation.
+   
     - title: All-Abilities Transportation Network Intern
       institution: Ramsey County, MN
       year: 2018
@@ -50,12 +53,12 @@ trails.
         - Phi Beta Kappa
         - Tau Beta Kappa
 
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - Statistical hydrology
-    - Environmental data science
-    - Mathematical ecology
-    - Land surface modeling and reduced complexity modeling
-    - Merging art and science
+#- title: Academic Interests
+#  type: nested_list
+#  contents:
+#    - Statistical hydrology
+#    - Environmental data science
+#    - Mathematical ecology
+#    - Land surface modeling and reduced complexity modeling
+#    - Merging art and science
 
