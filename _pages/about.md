@@ -15,8 +15,11 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hello! Welcome to my ever-evolving website. I am currently a PhD Candidate in Hydrology at the University of Minnesota. I focus on using cool new mathematical and modelling tools to better understand the ways that ecosystems are responding to climate change. Right now I'm focused on bogs and forested watersheds but I am interested in all sorts of plants, animals, and environments. If you are interested in learning more about some of my ongoing projects hop on over to the 'projects' tab in the navigation bar. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+On the other end, I spend a lot of time thinking about how as scientists we can better communicate our work to curious audiences. The truth is that a lot of us are just kind of weirdos who love cool stuff and we want to share that with you! As an artist, I am particularly interested in how we can use comics and illustrations to communicate complex concepts. Often this also helps us better understand what we are doing as scientists. Some of my current art projects are also on display in the projects page. 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Finally, two disclaimers (1) my views are my own and nothing on this page necessarily reflects the missions of the various organizations I have been a part of and (2) this space is in flux! I am constantly working to make it better and you can look forward to more content and maybe a sticker store (???) in the future. 
+
+Happy learning, 
+Mariel 
