@@ -40,7 +40,7 @@ repo_trophies:
 # will use title and url fields
 # Take a look to https://github.com/jekyll/jekyll-feed for more customization
 
-rss_icon: true
+rss_icon: false
 
 # -----------------------------------------------------------------------------
 # Layout
@@ -68,7 +68,7 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 
 github_username: mwdjones
 twitter_username: hydro_nerd
-linkedin_username: Mariel W. Jones
+linkedin_username: mwdjones
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
 # -----------------------------------------------------------------------------
@@ -184,8 +184,8 @@ display_categories: ['blockquotes'] # these categories will be displayed on the 
 
 scholar:
 
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Jones]
+  first_name: [Mariel, W.]
 
   style: apa
   locale: en
