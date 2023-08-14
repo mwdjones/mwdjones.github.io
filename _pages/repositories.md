@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /repositories/
-title: Code Repositories
+title: repositories
 description: Take a look through some of my recent and ongoing projects.
 nav: true
 nav_order: 3
