@@ -6,7 +6,7 @@ subtitle: Ecohydologist by day and illustrator ... also by day
 
 profile:
   align: right
-  image: self.jpg
+  image: IMG-1491.JPG
   image_circular: false # crops the image to make it circular
 
 news: false  # includes a list of news items
