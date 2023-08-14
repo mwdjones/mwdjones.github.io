@@ -13,4 +13,4 @@ description: A downloadable version of the CV below can be accessed via the icon
      {% if page.description %}<p class="post-description">{{ page.description }}</p>{% endif %}
 </header>
 
-<embed src="https://mwjones.github.io/assets/pdf/MWJ_CV_LaTeX.pdf" type="application/pdf"/>
+<embed src="assets/pdf/MWJ_CV_LaTeX.pdf" type="application/pdf"/>
