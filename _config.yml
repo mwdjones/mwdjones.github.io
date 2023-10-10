@@ -11,7 +11,7 @@ description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Ecohydrologist by day and illustrator by...also day
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-#icon: ⚛️  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: 🌳  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://mwdjones.github.io # the base hostname & protocol for your site
 #baseurl: the subpath of your site, e.g. /blog/
