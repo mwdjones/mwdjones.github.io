@@ -3,7 +3,7 @@ layout: page
 title: Vegetation Surveys
 description: Collecting and processing vegetation data from peatland forest systems
 img: assets/img/veg survey/IMG_8280.jpg
-importance: 1
+importance: 2
 category: work
 ---
 
