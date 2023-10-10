@@ -4,7 +4,7 @@ title: Posters! Posters! Posters!
 description: Ongoing presentations at the Water Resources Conference
 img: assets/img/IMG_8285.jpg
 importance: 1
-category: outreach
+category: work
 ---
 
 
