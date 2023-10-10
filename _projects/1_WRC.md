@@ -16,12 +16,12 @@ Whew.
 All that is to say that peatlands are really important to Minnesota ecosystems! 
 Last year, I presented part one of this project: looking at the long-term data coming out of Marcell to track how changes in climate over the last 60 years may have affected the connectivity within the watershed. 
 
-<embed src="https://mwdjones.github.io/assets/pdf/MWJ_CV_Latex.pdf" width=800px height=500px type="application/pdf"/>
+<embed src="https://mwdjones.github.io/assets/pdf/WRC 2022/SnowHydrology_ProjectPoster.pdf" width=800px height=500px type="application/pdf"/>
 
 From this part of the project, we showed that soil frost is an important element in controlling the streamflow from peatland-dominated watersheds, more so than snow, water table, or any climactic variables. We also showed that there is a clear flow path that snow melt from the catchment follows, through the soil, down the slope, into the water table, and out of the catchment. In the end, we introduce a conceptual framework for how, as climate change progresses and our winters get more erratic, we can expect changes to the partitioning of snowmelt into these distinct flow paths, eventually affecting annual streamflow from these catchments. 
 But how do we prove this framework is true? Well, folks, that is why we are back this year. Last winter we expanded this project, taking new data at an increased spatial resolution across the watershed. Unlike the previous project, which was done using average catchment data, we now have highly local canopy, snow, and soil data to try and piece together what are the exact controls on runoff and how those controls are changing due to warming winters. 
 
-<embed src="https://mwdjones.github.io/assets/pdf/MWJ_CV_Latex.pdf" width=800px height=500px type="application/pdf"/>
+<embed src="https://mwdjones.github.io/assets/pdf/WRC 2022/WRC Poster - Draft.pdf" width=800px height=500px type="application/pdf"/>
 
 From this expanded research we can see how canopy in a dense forest can affect snow accumulation and frost formation – and high-resolution soil moisture data will help us see how frost affects infiltration in different parts of the catchment. One interesting result shows that canopy cover (not snow cover!) is a slightly better indicator of soil frost at a location. I have many theories about this—shading that cools the surface, a proxy for vegetation and antecedent soil moisture—stop by my poster to spit ball! 
 
