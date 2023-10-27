@@ -1,5 +1,7 @@
 ---
 layout: page
 title: portfolio
-redirect: mwdjones.myportfolio.com
+permalink: /portfolio/
+redirect_to:
+  - mwdjones.myportfolio.com
 ---
