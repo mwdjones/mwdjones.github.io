@@ -1,8 +1,7 @@
 ---
-layout: page
+layout: redirect
 title: portfolio
 nav: true
 permalink: /portfolio/
-redirect_to:
-  - mwdjones.myportfolio.com
+redirect: mwdjones.myportfolio.com
 ---
