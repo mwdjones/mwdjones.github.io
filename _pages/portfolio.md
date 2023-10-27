@@ -1,10 +1,10 @@
-
 ---
 layout: page
-title: project 3
-description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: https://unsplash.com
-importance: 3
-category: work
+title: portfolio
+redirect: mwdjones.myportfolio.com
+description: Personal Portfolio
+nav: true
+nav_order: 2
+display_categories: [work, fun]
+horizontal: false
 ---
