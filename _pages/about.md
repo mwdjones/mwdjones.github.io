@@ -24,4 +24,8 @@ Finally, two disclaimers: (1) my views are my own and nothing on this page neces
 Happy learning, 
 Mariel 
 
+In the meantime here's a snapshot of my CV:
+![alt text](https://github.com/mwdjones/mwdjones.github.io/blob/master/assets/img/Timeline_rawgraphs.jpg?raw=true)
+
+
 
