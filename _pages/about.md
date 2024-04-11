@@ -26,6 +26,4 @@ Mariel
 
 In the meantime here's a snapshot of my CV:
 
-![timeline](/assets/img/Timeline_rawgraphs.jpg)
-
 
