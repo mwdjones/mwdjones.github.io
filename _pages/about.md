@@ -25,7 +25,9 @@ Happy learning,
 Mariel 
 
 In the meantime here's a snapshot of my CV:
-<img src="(https://github.com/mwdjones/mwdjones.github.io/blob/master/assets/img/Timeline_rawgraphs.jpg)" alt="drawing" width="400"/>
+
+
+<img src="https://github.com/mwdjones/mwdjones.github.io/blob/master/assets/img/Timeline_rawgraphs.jpg" alt="drawing" width="800"/>
 
 
 
