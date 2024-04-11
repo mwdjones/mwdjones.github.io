@@ -26,8 +26,7 @@ Mariel
 
 In the meantime here's a snapshot of my CV:
 
-
-<img src="https://github.com/mwdjones/mwdjones.github.io/blob/master/assets/img/Timeline_rawgraphs.jpg" alt="drawing" width="800"/>
+<a href="url"><img src="https://github.com/mwdjones/mwdjones.github.io/blob/master/assets/img/Timeline_rawgraphs.jpg" align="left" width="800" ></a>
 
 
 
