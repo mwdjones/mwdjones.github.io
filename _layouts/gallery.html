@@ -6,11 +6,16 @@ layout: default
   margin: 15px;
 }
 
-#JS
-$(document).on("click", '[data-toggle="lightbox"]', function(event) {
-  event.preventDefault();
-  $(this).ekkoLightbox();
-});
+div {
+  display: none;
+  border: 1px solid #000;
+  height: 30px;
+  width: 290px;
+}
+
+a:hover+div {
+  display: block;
+}
 
 #HTML
 <div class="container">
