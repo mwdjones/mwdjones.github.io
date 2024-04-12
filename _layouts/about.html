@@ -11,13 +11,6 @@ layout: default
           <p class="desc">{{ page.subtitle }}</p>
         </header>
 
-      div.horizontalgap {
-            float: left;
-            overflow: hidden;
-            height: 1px;
-            width: 0px;
-            }
-
         <article>
           {% if page.profile -%}
           <div class="profile float-{%- if page.profile.align == 'left' -%}left{%- else -%}right{%- endif -%}">
@@ -50,10 +43,9 @@ layout: default
 
           <div>
             <img src="/assets/img/Timeline_rawgraphs.jpg" width="750" />
+            &nbsp;
           </div>
 
-          <div class="horizontalgap" style="width:10px"></div>
-              
           <!-- News -->
           {% if page.news and site.announcements.enabled -%}
             <h2><a href="{{ '/news/' | relative_url }}" style="color: inherit;">news</a></h2>
