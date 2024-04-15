@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+<link href="/assets/css/lightbox.css" rel="stylesheet" />
 
 <header class="post-header">
   <h1 class="post-title">{{ page.title }} {% if page.cv_pdf %}<a href="{{ page.cv_pdf | prepend: 'assets/pdf/' | relative_url}}" target="_blank" rel="noopener noreferrer" class="float-right"><i class="fas fa-file-pdf"></i></a>{% endif %}</h1>
@@ -106,3 +107,5 @@ layout: default
     </a>
   </div>
 </div>
+
+<script src="/assets/js/lightbox.js"></script>
