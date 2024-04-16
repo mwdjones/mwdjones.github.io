@@ -145,6 +145,7 @@ plugins:
   - jekyll-toc
   - jekyll-twitter-plugin
   - jemoji
+  - lightbox
 
 # Sitemap settings
 defaults:
