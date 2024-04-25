@@ -113,6 +113,11 @@ layout: default
   </div>
 </div>
 
+$(document).on('click', '[data-toggle="lightbox"]', function(event) {
+                event.preventDefault();
+                $(this).ekkoLightbox();
+            });
+  
 <script type="text/javascript" src="/assets/js/lightbox.js"></script>
 <link rel="stylesheet" href="/assets/css/lightbox.css">
 </body>
