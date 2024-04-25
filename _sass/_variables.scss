@@ -67,6 +67,6 @@ $carousel-control-next-icon-bg:      url("data:image/svg+xml,<svg xmlns='http://
 $carousel-transition-duration:       .6s;
 $carousel-transition:                transform $carousel-transition-duration ease-in-out; // Define transform transition first if using multiple transitions (e.g., `transform 2s ease, opacity .5s ease-out`)
 
-$carousel-dark-indicator-active-bg:  $black;
-$carousel-dark-caption-color:        $black;
+$carousel-dark-indicator-active-bg:  $black-color;
+$carousel-dark-caption-color:        $black-color;
 $carousel-dark-control-icon-filter:  invert(1) grayscale(100);
