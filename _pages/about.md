@@ -19,7 +19,7 @@ Hello! Welcome to my ever-evolving website. I am currently a PhD Candidate in Hy
 
 On the other end, I spend a lot of time thinking about how as scientists we can better communicate our work to curious audiences. The truth is that a lot of us are just kind of weirdos who love cool stuff and we want to share that with you! As an artist, I am particularly interested in how we can use comics and illustrations to communicate complex concepts. Often this also helps us better understand what we are doing as scientists. Some of my current art projects can be found on the 'portfolio' page. 
 
-Finally, two disclaimers: (1) my views are my own and nothing on this page necessarily reflects the missions of the various organizations I have been a part of and (2) this space is in flux! I am constantly working to make it better and you can look forward to more content and maybe a sticker store (???) in the future. 
+Finally, two disclaimers: (1) my views are my own and nothing on this page necessarily reflects the missions of the various organizations I have been a part of and (2) this space is in flux! I am constantly working to make it better and you can look forward to more content in the future. 
 
 Happy learning, 
 Mariel 
