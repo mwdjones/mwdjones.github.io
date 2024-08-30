@@ -2,7 +2,7 @@
 layout: page
 title: Posters! Posters! Posters!
 description: Ongoing presentations at the Water Resources Conference
-img: assets/img/IMG_8285.jpg
+img: assets/img/IMG_8285_clipped.jpg
 importance: 1
 category: work
 ---
