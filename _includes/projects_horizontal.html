@@ -1,4 +1,4 @@
-<div class="card-item col">
+low<div class="card-item col">
   {%- if project.redirect -%}
   <a href="{{ project.redirect }}">
   {%- else -%}
@@ -8,7 +8,7 @@
       <div class="row g-0">
         {%- if project.img -%}
         <div class="card-img col-md-12">
-          {% include figure.html path=project.img alt="project thumbnail" height="200" %}
+          {% include figure.html path=project.img alt="project thumbnail" height="200" overflow="hidden" %}
         </div>
         <div class="col-md-12">
         {%- else -%}
