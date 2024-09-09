@@ -9,8 +9,6 @@ display_categories: [Snow, CLM, Noise]
 horizontal: true
 ---
 
-<img align="left" height="420" src="/assets/img/unnamed.jpg">
-
 ## Snow Hydrology in Peatland Dominated Catchments
 *NSF Hydrological Sciences Grant #2153802 Forest, Frost, and Flow: Snow Hydrology of Spatially Heterogeneous and Hydrologically Connected Peatland Catchments*
 
