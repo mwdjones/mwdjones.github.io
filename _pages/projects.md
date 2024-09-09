@@ -12,7 +12,7 @@ horizontal: true
 ## Snow Hydrology in Peatland Dominated Catchments
 *NSF Hydrological Sciences Grant #2153802 Forest, Frost, and Flow: Snow Hydrology of Spatially Heterogeneous and Hydrologically Connected Peatland Catchments*
 
-<img align="left" height="400" src="https://github.com/mwdjones/mwdjones.github.io/blob/master/assets/img/publication_preview/S2WTE.svg">
+<img align="left" height="400" src="https://github.com/mwdjones/mwdjones.github.io/blob/master/assets/img/unnamed.jpg">
 
 Peatlands, a subset of wetlands that store organic carbon in the form of peat, cover only 3% of the globe but are responsible for storing more than 30% of all soil carbon. They are one of the most efficient carbon stores on the planet and are a critical buffer against global warming. Many of these peatlands are found along two latitudes: right above the equator in areas like Florida, Malaysia, and Southeast Asia; and right below the Arctic Circle in Canada, Scandinavia, and Russia. My research focuses on the latter for another critical climate change reason: winter. A peatland's ability to maintain vast carbon stores is driven by its hydrology, specifically the water table. As winter temperatures and snowfall regimes change due to global warming, peatland hydrology shifts too, in ways that may decrease the carbon-trapping potential of these essential ecosystems. To figure out if and how peatlands are responding to these changes, we study the shifts in hydrologic connectivity under different snow regimes in peatland-dominated watersheds. 
 
