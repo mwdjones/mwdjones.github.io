@@ -19,7 +19,7 @@ Peatlands, a subset of wetlands that store organic carbon in the form of peat, c
 <div class="projects">
 {%- if site.enable_project_categories and page.display_categories %}
   <!-- Display categorized projects -->
-  {%- for category in ['Snow'] %}
+  {%- for category in [Snow] %}
   <h2 class="category">{{ category }}</h2>
   {%- assign categorized_projects = site.projects | where: "category", category -%}
   {%- assign sorted_projects = categorized_projects | sort: "importance" %}
