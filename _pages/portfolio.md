@@ -16,6 +16,19 @@ carousels:
     - image: /assets/img/portfolio/Peat_page_8.png
     - image: /assets/img/portfolio/Peat_page_9.png
     - image: /assets/img/portfolio/Peat_page_10.png
+  - images:
+    - image: /assets/img/portfolio/Cannonball_Comic-Final-1.png
+    - image: /assets/img/portfolio/Cannonball_Comic-Final-2.png
+    - image: /assets/img/portfolio/Cannonball_Comic-Final-3.png
+    - image: /assets/img/portfolio/Cannonball_Comic-Final-4.png
+    - image: /assets/img/portfolio/Cannonball_Comic-Final-5.png
+    - image: /assets/img/portfolio/Cannonball_Comic-Final-6.png
+    - image: /assets/img/portfolio/Cannonball_Comic-Final-7.png
+    - image: /assets/img/portfolio/Cannonball_Comic-Final-8.png
+    - image: /assets/img/portfolio/Cannonball_Comic-Final-9.png
+    - image: /assets/img/portfolio/Cannonball_Comic-Final-10.png
+    - image: /assets/img/portfolio/Cannonball_Comic-Final-11.png
+    - image: /assets/img/portfolio/Cannonball_Comic-Final-12.png
 ---
 
 
