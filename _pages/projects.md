@@ -9,13 +9,18 @@ display_categories: [Snow, CLM, Noise]
 horizontal: true
 ---
 
+## Vulnerability to Future Climate Hazards in the National Parks
+*USGS/ORISE Fellowship with Midwest Climate Adaptation Science Center and National Parks Service*
+
+Climate (Change) hazards are increasingly affecting National Parks Service infrastructure as well as natural and cultral resources, and visitor use. In the Midwest, parks are experiencing increases in precipitation intensity and frequency, strenuous temperatures, and extreme flash flooding responses. Some parks are projected to see nearly a 40% increase in 100-year stormflow by 2070. Understanding the vulnerability of park infrastructure to theses changes will help managers make climate adaptation decisions that safeguard recreational access and public safety. The goal of this project is to provide information, analysis, and technical assistance to identify these critical climate impacts, evaluate risk, and reduce vulnerability within the National Parks of the Midwest. 
+
 ## Snow Hydrology in Peatland Dominated Catchments
 *NSF Hydrological Sciences Grant #2153802 Forest, Frost, and Flow: Snow Hydrology of Spatially Heterogeneous and Hydrologically Connected Peatland Catchments*
 
 Peatlands, a subset of wetlands that store organic carbon in the form of peat, cover only 3% of the globe but are responsible for storing more than 30% of all soil carbon. They are one of the most efficient carbon stores on the planet and are a critical buffer against global warming. Many of these peatlands are found along two latitudes: right above the equator in areas like Florida, Malaysia, and Southeast Asia; and right below the Arctic Circle in Canada, Scandinavia, and Russia. My research focuses on the latter for another critical climate change reason: winter. A peatland's ability to maintain vast carbon stores is driven by its hydrology, specifically the water table. As winter temperatures and snowfall regimes change due to global warming, peatland hydrology shifts too, in ways that may decrease the carbon-trapping potential of these essential ecosystems. To figure out if and how peatlands are responding to these changes, we study the shifts in hydrologic connectivity under different snow regimes in peatland-dominated watersheds. 
 
 For more information see:
-- M. W. Jones, S. F. Dymond, S. D. Sebestyen, X. Feng, Forest structural diversity increases snow accumulation in low-relief watersheds, *in prep for Hydrological Processes*
+- M. W. Jones, S. F. Dymond, S. D. Sebestyen, X. Feng, Snow Accumulation Increases With Forest Structural Diversity in Low-Relief Catchments, *Hydrological Processes*, 2025, [https://doi.org/10.1002/hyp.70352]( https://doi.org/10.1002/hyp.70352)
 - M. W. Jones, S. D. Sebestyen, S. F. Dymond, G-H. C. Ng, X. Feng, Frost Decouples Spring Streamflow from Snowmelt in Headwater Catchments, *Journal of Hydrology*, 2023. [https://doi.org/10.1016/j.jhydrol.2022.128801](https://doi.org/10.1016/j.jhydrol.2022.128801)
 - M. W. Jones, S. Dymond, S. D. Sebestyen, X. Feng, Forest Architecture Controls on Snow in Mississippi Headwater Catchments, *WaterSciCon*, Saint Paul, MN, June 2024
 - M. W. Jones, X. Feng, K. Hoffman, S. D. Sebestyen, S. Dymond, Snow, soil frost, and hydrologic connectivity in peatland watersheds, *Western Snow Conference*, Flagstaff, AZ, April 2023
